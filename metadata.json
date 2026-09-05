@@ -1,0 +1,6 @@
+{
+  "name": "Flipper Droid",
+  "description": "Программный эмулятор Flipper Zero на Android: NFC 13.56 МГц, эмуляция карт, DuckyScript BadUSB генератор, Sub-GHz лаборатория, BLE сканер и кастомные прошивки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
